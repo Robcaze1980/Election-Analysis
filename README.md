@@ -33,8 +33,15 @@ The vote distribution for each candidate and it percentage of the total votes wa
 
 #### • Winner candidate summary
 
-Then winner candidate results are described as follow:
+The winner candidate results are described as follow:
 
 ![alt text](https://github.com/Robcaze1980/Election-Analysis/blob/main/images/winner_summary.png?raw=true) 
 
 ## ELECTION-AUDIT SUMMARY
+
+This election audit was executed in a short period of time using a computer script which is able to be retrieved in a secure, 
+fast and with the highest accuracy in the results shown. This type of script can be really useful to the election 
+commision in future elections ensuring to voters a higher standard in transparency and rapidness of auditing the results.
+
+The script can be upgraded to be able to include results per voting center, zip code, invalid votes and other reports as per 
+commission request and data availability.
